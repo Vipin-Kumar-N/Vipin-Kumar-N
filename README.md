@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vipin-Kumar-N
 - 👀 I’m interested in ...Technology And Development
-- 🌱 I’m currently learning ...MCA
+- 🌱 I’m MCA & Bsc.Electronics Graduate
 - 💞️ I’m looking to collaborate on ...Big IT Projects
 - 📫 How to reach me ...Inbox Me
 
