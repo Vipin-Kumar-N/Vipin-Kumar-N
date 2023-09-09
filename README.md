@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Visual Intelligence**
 
-- 🌱 I’m MCA Graduate **with BSc. Electronics**
+- 🌱 I’m **MCA** Graduate with BSc. Electronics
 
 - 👯 I’m looking to collaborate on **Big Projects**
 
